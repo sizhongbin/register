@@ -1,0 +1,16 @@
+{
+    "description": "Personal IF Project",
+    "domain": "is-not-a.dev",
+    "subdomain": "szhb",
+
+    "owner": {
+        "repo": "https://github.com/sizhongbin/sizhongbin.github.io",
+        "email": "sizhongbin@hotmail.com"
+    },
+
+    "record": {
+        "CNAME": "sizhongbin.github.io",
+    },
+
+    "proxied": false
+}
